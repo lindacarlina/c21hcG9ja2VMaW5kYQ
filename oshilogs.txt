@@ -12,82 +12,128 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Linda =====
-[1]Linda       |10:28:22 | 19-10-2026| login OK @lindacrlina | score=1400 rank=4916
-[1]Linda       |10:28:22 | 19-10-2026| serverTime=2026-10-19T10:28:22.000Z local=2026-10-19T10:28:22.656Z
+[1]Linda       |09:46:52 | 20-10-2026| login OK @lindacrlina | score=1490 rank=4747
+[1]Linda       |09:46:52 | 20-10-2026| serverTime=2026-10-20T09:46:52.000Z local=2026-10-20T09:46:52.591Z
 --> [1]Linda menjalankan: Claim Daily
-[1]Linda       |10:28:24 | 19-10-2026| daily: OK +10 poin score=1410
---> [1]Linda menjalankan: Auto All Tasks (8 pending)
-[1]Linda       |10:28:27 | 19-10-2026| [1/8] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128159327526994
-[1]Linda       |10:28:27 | 19-10-2026| delay 10s...
-[1]Linda       |10:28:40 | 19-10-2026| [2/8] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128469405506134
-[1]Linda       |10:28:40 | 19-10-2026| delay 10s...
-[1]Linda       |10:28:52 | 19-10-2026| [3/8] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128304226786623
-[1]Linda       |10:28:52 | 19-10-2026| delay 10s...
-[1]Linda       |10:29:05 | 19-10-2026| [4/8] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128401745546898
-[1]Linda       |10:29:05 | 19-10-2026| delay 10s...
-[1]Linda       |10:29:18 | 19-10-2026| [5/8] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128445051245001
-[1]Linda       |10:29:18 | 19-10-2026| delay 10s...
-[1]Linda       |10:29:30 | 19-10-2026| [6/8] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128492001808826
-[1]Linda       |10:29:30 | 19-10-2026| delay 10s...
-[1]Linda       |10:29:43 | 19-10-2026| [7/8] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128741426615787
-[1]Linda       |10:29:43 | 19-10-2026| delay 10s...
-[1]Linda       |10:29:56 | 19-10-2026| [8/8] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/lindacrlina/status/2112128514363396637
-[1]Linda       |10:29:56 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Linda       |10:29:58 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/lindacrlina/status/2112128785018566590
+[1]Linda       |09:46:53 | 20-10-2026| daily: OK +10 poin score=1500
+--> [1]Linda menjalankan: Auto All Tasks (6 pending)
+[1]Linda       |09:46:55 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480363931660136
+[1]Linda       |09:46:55 | 20-10-2026| delay 10s...
+[1]Linda       |09:47:08 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480124885517983
+[1]Linda       |09:47:08 | 20-10-2026| delay 10s...
+[1]Linda       |09:47:21 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480346693002635
+[1]Linda       |09:47:21 | 20-10-2026| delay 10s...
+[1]Linda       |09:47:33 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480344056469826
+[1]Linda       |09:47:33 | 20-10-2026| delay 10s...
+[1]Linda       |09:47:46 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480459750706361
+[1]Linda       |09:47:46 | 20-10-2026| delay 10s...
+[1]Linda       |09:47:59 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lindacrlina/status/2112480315850226506
+[1]Linda       |09:47:59 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Linda       |09:48:00 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/lindacrlina/status/2112480511040323679
 --> [1]Linda menjalankan: Watch Anime
-[1]Linda       |10:29:59 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Linda       |10:29:59 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Linda       |10:30:01 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Linda       |10:30:06 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Linda       |10:30:08 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Linda       |10:30:13 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Linda       |10:30:15 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Linda       |10:30:20 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Linda       |10:30:22 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Linda       |09:48:02 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Linda       |09:48:02 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Linda       |09:48:04 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Linda       |09:48:10 | 20-10-2026| watch oshi-captains-hat: 5% (5.33/92.00s)
+[1]Linda       |09:48:16 | 20-10-2026| watch oshi-captains-hat: 11% (10.97/92.00s)
+[1]Linda       |09:48:22 | 20-10-2026| watch oshi-captains-hat: 17% (16.53/92.00s)
+[1]Linda       |09:48:29 | 20-10-2026| watch oshi-captains-hat: 24% (22.11/92.00s)
+[1]Linda       |09:48:35 | 20-10-2026| watch oshi-captains-hat: 30% (27.76/92.00s)
+[1]Linda       |09:48:42 | 20-10-2026| watch oshi-captains-hat: 36% (33.47/92.00s)
+[1]Linda       |09:48:48 | 20-10-2026| watch oshi-captains-hat: 43% (39.69/92.00s)
+[1]Linda       |09:48:54 | 20-10-2026| watch oshi-captains-hat: 49% (45.20/92.00s)
+[1]Linda       |09:49:01 | 20-10-2026| watch oshi-captains-hat: 55% (51.04/92.00s)
+[1]Linda       |09:49:07 | 20-10-2026| watch oshi-captains-hat: 61% (56.68/92.00s)
+[1]Linda       |09:49:14 | 20-10-2026| watch oshi-captains-hat: 67% (62.42/92.00s)
+[1]Linda       |09:49:20 | 20-10-2026| watch oshi-captains-hat: 74% (68.60/92.00s)
+[1]Linda       |09:49:27 | 20-10-2026| watch oshi-captains-hat: 80% (74.39/92.00s)
+[1]Linda       |09:49:33 | 20-10-2026| watch oshi-captains-hat: 87% (80.18/92.00s)
+[1]Linda       |09:49:39 | 20-10-2026| watch oshi-captains-hat: 93% (85.78/92.00s)
+[1]Linda       |09:49:39 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.78/92.00s)
+[1]Linda       |09:49:44 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Linda       |09:49:47 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Linda       |09:49:53 | 20-10-2026| watch oshi-rainbow-star: 6% (5.58/86.00s)
+[1]Linda       |09:49:59 | 20-10-2026| watch oshi-rainbow-star: 12% (11.16/86.00s)
+[1]Linda       |09:50:06 | 20-10-2026| watch oshi-rainbow-star: 19% (16.90/86.00s)
+[1]Linda       |09:50:18 | 20-10-2026| watch oshi-rainbow-star: 26% (22.60/86.00s)
+[1]Linda       |09:50:24 | 20-10-2026| watch oshi-rainbow-star: heartbeat GAGAL http=503
+[1]Linda       |09:50:29 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Linda       |09:50:29 | 20-10-2026| watch oshi-rainbow-lighthouse: start GAGAL http=503
+[1]Linda       |09:50:34 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Linda       |09:50:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Linda       |09:50:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.24/181.00s)
+[1]Linda       |09:50:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.97/181.00s)
+[1]Linda       |09:50:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.55/181.00s)
+[1]Linda       |09:51:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.23/181.00s)
+[1]Linda       |09:51:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.44/181.00s)
+[1]Linda       |09:51:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.11/181.00s)
+[1]Linda       |09:51:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.71/181.00s)
+[1]Linda       |09:51:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.57/181.00s)
+[1]Linda       |09:51:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.48/181.00s)
+[1]Linda       |09:51:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.04/181.00s)
+[1]Linda       |09:51:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.69/181.00s)
+[1]Linda       |09:51:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.20/181.00s)
+[1]Linda       |09:51:59 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.27/181.00s)
+[1]Linda       |09:52:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (79.86/181.00s)
+[1]Linda       |09:52:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.73/181.00s)
+[1]Linda       |09:52:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (92.08/181.00s)
+[1]Linda       |09:52:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 54% (97.92/181.00s)
+[1]Linda       |09:52:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.85/181.00s)
+[1]Linda       |09:52:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.68/181.00s)
+[1]Linda       |09:52:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.33/181.00s)
+[1]Linda       |09:52:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.94/181.00s)
+[1]Linda       |09:52:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.56/181.00s)
+[1]Linda       |09:53:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.75/181.00s)
+[1]Linda       |09:53:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.37/181.00s)
+[1]Linda       |09:53:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.94/181.00s)
+[1]Linda       |09:53:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (150.14/181.00s)
+[1]Linda       |09:53:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 86% (155.72/181.00s)
+[1]Linda       |09:53:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.24/181.00s)
+[1]Linda       |09:53:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 92% (167.21/181.00s)
+[1]Linda       |09:53:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (167.21/181.00s)
 --> [1]Linda menjalankan: Read Article
-[1]Linda       |10:30:23 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Linda       |10:30:24 | 19-10-2026| mint eligibility: {"userId":"1748262990493945856","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@linda_carlina","status":"submitted","revision":"34e3daf9-7011-42bc-8e4b-87e2f9de
-[1]Linda       |10:30:24 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Linda       |09:53:48 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Linda       |09:53:49 | 20-10-2026| mint eligibility: {"userId":"1748262990493945856","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@linda_carlina","status":"submitted","revision":"34e3daf9-7011-42bc-8e4b-87e2f9de
+[1]Linda       |09:53:49 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Linda menjalankan: Quiz Anime
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Linda       |10:30:25 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Linda       |09:53:49 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Linda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Linda       |10:30:27 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Linda       |10:30:28 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Linda       |10:30:28 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Linda       |10:30:28 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Linda       |09:53:51 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Linda       |09:53:52 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Linda       |09:53:52 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Linda       |09:53:52 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Linda menjalankan: Claim Missions
-[1]Linda       |10:30:28 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Linda       |10:30:28 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Linda       |10:30:28 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Linda       |09:53:53 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Linda       |09:53:53 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Linda       |09:53:53 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Linda menjalankan: Check Eligibility
 
 --- eligibility [1]Linda ---
-  @lindacrlina | score=1400 rank=4916
-  tasks    [##################--] 74/82
+  @lindacrlina | score=1490 rank=4747
+  tasks    [##################--] 73/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 20/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Linda menjalankan: Read Manga
-[1]Linda       |10:30:33 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Linda       |09:53:58 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Linda menjalankan: Get Gift
-[1]Linda       |10:30:33 | 19-10-2026| gift: 0/4 belum diterima
+[1]Linda       |09:53:58 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Linda menjalankan: Setup Profile
-[1]Linda       |10:30:34 | 19-10-2026| profile: bio="https://x.com/lindacrlina" fav=mony rewardAt=1791688906
-[1]Linda       |10:30:34 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Linda       |09:53:59 | 20-10-2026| profile: bio="https://x.com/lindacrlina" fav=mony rewardAt=1791688906
+[1]Linda       |09:53:59 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Linda menjalankan: Bind Wallet
-[1]Linda       |10:30:34 | 19-10-2026| wallet: sudah terikat 3sjEKDgQs1... (solana)
+[1]Linda       |09:53:59 | 20-10-2026| wallet: sudah terikat 3sjEKDgQs1... (solana)
 
 == RINGKASAN ==
-- Linda: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Linda: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
